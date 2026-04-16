@@ -81,40 +81,29 @@ jogo-adivinhacao/
 
 ---
 
-## 📊 Quadro de Atividades (Kanban)
-
-> 📸 **Insira abaixo o print do quadro Kanban da equipe:**
+## 📊 Quadro de Atividades / Backlog (Kanban)
 
 <div align="center">
 
 <!-- ✅ SUBSTITUA A LINHA ABAIXO PELO PRINT DO QUADRO -->
 <img width="1913" height="964" alt="image" src="https://github.com/user-attachments/assets/3bd919ed-8366-46d0-a0b0-fee3c7881860" />
 
-*Print do quadro de atividades da equipe — atualizado em: `dd/mm/aaaa`*
+*Print do quadro de atividades da equipe — atualizado em: `09/04/2026`*
 
 </div>
-
 ---
-
-## 📂 Backlog Completo (Print)
-
-
+## Protótipo de Baixa Fidelidade
 <div align="center">
-<!-- ✅ SUBSTITUA A LINHA ABAIXO PELO PRINT DO QUADRO -->
-![Backlog do Projeto](./assets/backlog.png)
-
-
-*Print do backlog completo com as histórias de usuário — atualizado em: `09/04/2026`*
-
+  <img width="1600" height="742" alt="image" src="https://github.com/user-attachments/assets/da304619-05c3-4cac-b06d-e33b453837b7" />
+  
+  *Print do protótipo de baixa fidelidade do Figma — atualizado em: `16/04/2026`*
 </div>
-
 ---
-
 ## 🚀 Como Compilar e Executar
 
 ### Pré-requisitos
 
-- GCC instalado (ou um compilador equivalente)
+- GCC instalado (ou um compilador equivalente)  
 - Sistema operacional: Linux, macOS ou Windows (com MinGW)
 
 ### Compilação
