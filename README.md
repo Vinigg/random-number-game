@@ -92,12 +92,17 @@ jogo-adivinhacao/
 
 </div>
 ---
-## Protótipo de Baixa Fidelidade
+## ✍️ Protótipo de Baixa Fidelidade
 <div align="center">
   <img width="1600" height="742" alt="image" src="https://github.com/user-attachments/assets/da304619-05c3-4cac-b06d-e33b453837b7" />
   
   *Print do protótipo de baixa fidelidade do Figma — atualizado em: `16/04/2026`*
 </div>
+
+---
+## 🎥 Demo
+
+[![Demo](./assets/thumb.png)](./assets/demo.mp4)
 ---
 ## 🚀 Como Compilar e Executar
 
