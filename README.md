@@ -11,11 +11,11 @@
 
 ---
 
-## 📋 Sobre o Projeto
+## GHOST
 
 Este projeto é um **Jogo de Adivinhação de Número Aleatório** desenvolvido em linguagem C, como parte de um projeto interdisciplinar envolvendo múltiplas matérias do curso.
 
-O jogo consiste em tentar adivinhar um número gerado aleatoriamente pelo sistema dentro de um intervalo definido. O jogador recebe dicas sobre se o seu palpite foi maior ou menor que o número secreto, até acertá-lo ou esgotar as tentativas disponíveis.
+O jogo consiste em tentar adivinhar um número gerado aleatoriamente pelo sistema dentro de um intervalo definido. O jogador recebe dicas sobre se o seu palpite foi maior ou menor que o número secreto e a cada erro o sistema atinge um alerta e ao final das 7 tentativas, o sistema encontra a localização do jogador.
 
 ### 🎮 Funcionalidades Principais
 
